@@ -1,3 +1,5 @@
+<img src="sora" alt="Sora">
+
 <!--
 <img src="angela.png" alt="Angela">
 -->

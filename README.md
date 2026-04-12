@@ -1,4 +1,5 @@
 <img src="sora.png" alt="Sora">
+<img src="sora-lce.png" alt="Sora">
 
 <!--
 <img src="angela.png" alt="Angela">

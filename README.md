@@ -1,5 +1,5 @@
-<img src="sora.png" alt="Sora">
-<img src="sora-lce.png" alt="Sora">
+<img src="sora.png" alt="Sora" width="1000">
+<img src="sora-lce.png" alt="Sora" width="1000">
 
 <!--
 <img src="angela.png" alt="Angela">
